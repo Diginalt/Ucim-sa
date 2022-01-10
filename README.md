@@ -1,0 +1,1 @@
+Otestovanie konfigurácie Android Studia
